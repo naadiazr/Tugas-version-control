@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 def print_nama_kel_Jatim(mantee):
     for nama in mantee:
         print(nama)
