@@ -7,9 +7,8 @@ This project is created as a part of an assignment to demonstrate a workflow usi
 The workflow consists of the following steps:
 
 1. **Checkout Repository:** This step checks out the repository's code to the runner environment.
-2. **Set up Python:** Sets up the Python environment with the specified version (3.x).
-3. **Run Python script:** Executes the Python script `Project-Kel-Jatim.py`, which prints out a list of collaborator names to an `output.txt` file.
-4. **Upload Artifact:** Uploads the `output.txt` file as an artifact named `collaborator_names`.
+2. **Run Python script:** Executes the Python script `Project-Kel-Jatim.py`, which prints out a list of collaborator names to an `output.txt` file.
+3. **Upload Artifact:** Uploads the `output.txt` file as an artifact named `collaborator_names`.
 
 ## Running the Workflow
 
