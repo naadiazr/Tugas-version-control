@@ -20,10 +20,10 @@ jobs:
 
       - name: Run Python script
         run: |
-          python Project-Kel-Jatim.py > output.txt
+          python Project-Kel-Jatim.py > collaborator_name.txt
 
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
-          name: collaborator_names
-          path: output.txt
+          name: artifact_jatim
+          path: collaborator_name.txt
