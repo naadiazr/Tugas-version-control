@@ -6,7 +6,7 @@ def print_nama_kel_Jatim(mantee):
 daftar_nama = ["Pangestu Sandya Etniko Siagian",
                "Taj Hakam Ikhsan",
                "Muhammad Salwa Fairus Santoso",
-               "Name",
+               "Eko Satria Rahmat Dani",
                "Name",
                "Name"]
 
