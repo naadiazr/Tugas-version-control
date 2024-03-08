@@ -25,4 +25,4 @@ daftar_nama = ["Pangestu Sandya Etniko Siagian",
                "Name"]
 
 # Memanggil fungsi untuk memprint nama orang
-print_nama_kel_Jatim(daftar_nama) 
+print_nama_kel_Jatim(daftar_nama)
