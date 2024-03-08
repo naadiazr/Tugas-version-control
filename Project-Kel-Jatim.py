@@ -7,6 +7,12 @@ daftar_nama = ["Pangestu Sandya Etniko Siagian",
                "Taj Hakam Ikhsan",
                "Abiyasa Putra Prasetya",
                "Name",
+               "Auditi Kurnia Wijayanti",
+               "Name",
+               "Taj Hakam Ikhsan",
+               "Muhammad Salwa Fairus Santoso",
+               "Eko Satria Rahmat Dani",
+               "Pramudhi Maulana",
                "Name"]
 
 # Memanggil fungsi untuk memprint nama orang
